@@ -1,2 +1,2 @@
-# sales-and-inventory-system
-sales and inventory system
+# Sales and Inventory System of Ac General Merchandise
+Sales and Inventory System of Ac General Merchandise
